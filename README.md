@@ -15,7 +15,7 @@ I enjoy building web applications, solving programming problems, and exploring p
 - 🧩 Practicing **Data Structures & Algorithms in Java**
 - 🌐 Building projects using the **MERN Stack**
 - 🤖 Exploring **Machine Learning**
-- 📚 Currently strengthening **DBMS, OS, Computer Networks and System Design**
+- 📚 Currently strengthening **DBMS, OS and Computer Networks**
 - 🚀 Open to **fresher software development opportunities**
 
 ---
