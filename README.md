@@ -119,6 +119,4 @@ Operating Systems
         ↓
 Computer Networks
         ↓
-System Design
-        ↓
 Software Development
